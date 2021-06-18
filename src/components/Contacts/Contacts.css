@@ -1,0 +1,27 @@
+.Contacts__list {
+  margin: 30px auto;
+  width: 400px;
+  height: 400px;
+  padding: 0;
+}
+
+.Contacts__item {
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Contacts__text {
+  text-align: center;
+  font-size: medium;
+  font-family: fantasy;
+  color: blue;
+}
+
+.Contacts__button-delete {
+  text-align: center;
+  font-size: 8px;
+  font-family: fantasy;
+  color: blue;
+}

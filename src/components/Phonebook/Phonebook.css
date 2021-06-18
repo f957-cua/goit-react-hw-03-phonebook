@@ -1,0 +1,25 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Label {
+  font-size: large;
+  font-family: fantasy;
+  margin: 10px auto;
+}
+
+.Input {
+  margin: 0 auto;
+  width: 100px;
+  height: 30px;
+}
+
+Button {
+  font-size: 12px;
+  font-family: fantasy;
+  margin: 10px auto;
+  width: 100px;
+  height: 30px;
+}

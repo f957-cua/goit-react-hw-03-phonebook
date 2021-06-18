@@ -1,0 +1,16 @@
+.Filter__label {
+  display: flex;
+  justify-content: center;
+}
+.Filter__text {
+  font-size: 26px;
+  font-family: fantasy;
+  color: black;
+}
+.Filter__input {
+  margin-left: 20px;
+  height: 26px;
+  width: 200px;
+  font-family: fantasy;
+  color: black;
+}
